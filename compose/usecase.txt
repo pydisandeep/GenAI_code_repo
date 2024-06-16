@@ -1,0 +1,2 @@
+
+This is single file within a large project called COMPOSE - Clinical Trial Matching, where given a protocol for disease with inclusion and exclusion criteria, and EHR data it automatically selects patients for clinical trials. This is a part of code where data points are generated for training. 
