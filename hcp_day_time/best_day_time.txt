@@ -1,0 +1,1 @@
+Marketing team wants to send promotional emails to HCPs , but due to low email opening rates, using machine learning, based on historical data we predicted a best day and time slot for each hcp so that marketing team can send their emails.  
