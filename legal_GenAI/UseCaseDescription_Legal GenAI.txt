@@ -1,0 +1,3 @@
+18000 legal documents were given with full detailed description of the case from the appeal to the conclusion with label assigned to text. Using Gen AI I tried to automatically label a legal document given case details. I tried in two ways both codes are uploaded.
+
+there are 234 different labels. We tried our POC on 10 labels and will extend the idea to all labels.
