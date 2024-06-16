@@ -1,0 +1,1 @@
+Csv chat is famous use case. But we have large csv tried to chat with that which is not typical case. We tried to achieve this in multiple ways. First approach code is given 
