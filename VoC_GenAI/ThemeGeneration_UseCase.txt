@@ -1,0 +1,2 @@
+
+VoC is voice of customers. We got customers reviews. We wanted to automate the process of generating themes based on the review text and assign the themes to pre-defined themes by team by taking text similarities. If new themes are proposed by the model, they are assigned as new themes to predefined themes and they are added to the generated themes. (pre-defined+newly genetated)
