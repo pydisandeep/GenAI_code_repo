@@ -1,0 +1,1 @@
+It's a basic version of langgraph. this can be extended with LLM calls. This is basic understaing of LangGraph
